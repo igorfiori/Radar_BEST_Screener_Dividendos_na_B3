@@ -1,8 +1,4 @@
-from pathlib import Path
-
-# Conteúdo do arquivo README.md
-markdown_content = """# Radar BEST+
-### Um Screener Quantitativo para Descoberta de Ações na B3
+### Radar BEST+: Um screener para ações da B3
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20yfinance%20%7C%20Requests-orange)
